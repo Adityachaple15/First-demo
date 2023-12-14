@@ -1,4 +1,4 @@
 # First-demo
 This is my first repository.
 <br>
-Author- Aditya chaple
+Author- Aditya (Aditya s. chaple)
